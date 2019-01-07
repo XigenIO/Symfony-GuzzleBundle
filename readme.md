@@ -3,5 +3,5 @@ Symfony bundle for Guzzle
 
 ## Installation
 ```sh
-composer require xigen/guzzle-bundle
+composer require xigen.io/guzzle-bundle
 ```

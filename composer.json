@@ -1,5 +1,5 @@
 {
-    "name" : "xigen/guzzle-bundle",
+    "name" : "xigen.io/guzzle-bundle",
     "description" : "Symfony bundle for Guzzle",
     "type" : "symfony-bundle",
     "authors" : [{
