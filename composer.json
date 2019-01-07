@@ -1,0 +1,20 @@
+{
+    "name" : "xigen/guzzle-bundle",
+    "description" : "Symfony bundle for Guzzle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Chris Hilsdon",
+        "email" : "chrish@xigen.co.uk",
+        "homepage": "https://xigen.co.uk"
+    }],
+    "require" : {
+        "php": "^7.2",
+        "symfony/framework-bundle": "^4"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Xigen\\Bundle\\GuzzleBundle\\" : ""
+        }
+    }
+}
+

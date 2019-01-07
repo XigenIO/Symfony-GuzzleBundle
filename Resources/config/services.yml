@@ -1,0 +1,3 @@
+services:
+    Xigen\Bundle\GuzzleBundle\Service\GuzzleClient:
+        class: Xigen\Bundle\GuzzleBundle\Service\GuzzleClient
